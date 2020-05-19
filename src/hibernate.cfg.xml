@@ -6,9 +6,9 @@
 	<session-factory>
 		<!-- 第一部分： 配置数据库信息 必须的 -->
 	<!-- 	<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
-		<property name="hibernate.connection.url">jdbc:mysql:///spring_day04</property>
+		<property name="hibernate.connection.url">jdbc:mysql:///sshdb</property>
 		<property name="hibernate.connection.username">root</property>
-		<property name="hibernate.connection.password">root</property>  -->
+		<property name="hibernate.connection.password">123456</property>  -->
 		
 		<!-- 第二部分： 配置hibernate信息  可选的-->
 		<!-- 输出底层sql语句 -->
